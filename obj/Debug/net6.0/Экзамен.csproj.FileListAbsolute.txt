@@ -1,0 +1,15 @@
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\bin\Debug\net6.0\Экзамен.exe
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\bin\Debug\net6.0\Экзамен.deps.json
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\bin\Debug\net6.0\Экзамен.runtimeconfig.json
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\bin\Debug\net6.0\Экзамен.dll
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\bin\Debug\net6.0\ref\Экзамен.dll
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\bin\Debug\net6.0\Экзамен.pdb
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.AssemblyInfoInputs.cache
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.AssemblyInfo.cs
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.dll
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\ref\Экзамен.dll
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.pdb
+C:\Users\Sony\Desktop\Учеба\GEEKBRAINS\Экзамен\obj\Debug\net6.0\Экзамен.genruntimeconfig.cache
